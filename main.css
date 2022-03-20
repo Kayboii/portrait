@@ -1,0 +1,29 @@
+body
+{
+    background-image: url(Untitled.png);
+}
+img{
+    border-radius: 1000px;
+    align-items: center;
+}
+#kay
+{
+    font-size: 30px;
+}
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color:rgb(121, 121, 35);
+    border-width: 20px;
+    width:55%}
+    #io{
+        border-radius: 100px;
+        border: 5px;
+    }
+    em{
+        color: chocolate;
+    }
+    strong{
+        font-size: 30px;
+    }
